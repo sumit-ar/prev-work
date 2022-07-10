@@ -1,3 +1,3 @@
 #### prev-work
 
-contains work before july 2022
+contains prev work
